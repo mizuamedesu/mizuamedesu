@@ -9,7 +9,7 @@
   * 2018年4月~2024年3月 東京都立南多摩中等教育学校
   * 2024年4月~ 筑波大学情報学群情報科学類(現在B3,coins24AC)
 * 住居 : 茨城県つくば市
-* 個人事業主(インボイス未登録)
+* 個人事業主(インボイス未登録)/屋号:みずあめクリエイト
 * https://mizuame.works
 * https://mizuame.app
 * https://github.com/mizuamedesu
