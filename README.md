@@ -20,7 +20,7 @@
 * https://www.youtube.com/@mizuameisgod
 * https://kiiteru.mizuame.app/u/mizuame
 
-詳しくは https://md.mizuame.app/s/Jo4uDyaKR
+詳しくは https://mizuame.works/about/
 
 ## ライセンスについて
 原則何もライセンスがないリポジトリは**AGPL**による公開になります。個別にリポジトリ内にライセンスがあるものはそちらに従います。
